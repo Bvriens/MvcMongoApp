@@ -5,6 +5,7 @@ namespace DBlibrary.Models
 {
     public class SaleModel
     {
+        // test 
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }

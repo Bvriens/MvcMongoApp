@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bertv\\source\\repos\\DBlibrary\\DBlibrary.csproj": {}
+    "C:\\Users\\bertv\\source\\repos\\MvcMongoApp\\DBlibrary\\DBlibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bertv\\source\\repos\\DBlibrary\\DBlibrary.csproj": {
+    "C:\\Users\\bertv\\source\\repos\\MvcMongoApp\\DBlibrary\\DBlibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bertv\\source\\repos\\DBlibrary\\DBlibrary.csproj",
+        "projectUniqueName": "C:\\Users\\bertv\\source\\repos\\MvcMongoApp\\DBlibrary\\DBlibrary.csproj",
         "projectName": "DBlibrary",
-        "projectPath": "C:\\Users\\bertv\\source\\repos\\DBlibrary\\DBlibrary.csproj",
+        "projectPath": "C:\\Users\\bertv\\source\\repos\\MvcMongoApp\\DBlibrary\\DBlibrary.csproj",
         "packagesPath": "C:\\Users\\bertv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bertv\\source\\repos\\DBlibrary\\obj\\",
+        "outputPath": "C:\\Users\\bertv\\source\\repos\\MvcMongoApp\\DBlibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

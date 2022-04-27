@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3s1DuOfUywA/utwjjOf5P2C4QdpTPp06sGg8Q33jfXwT/mPqUJG4f5ZL+JzzaLFn+qUbMTHsSDSfqV7XFjYlQ==",
+  "dgSpecHash": "QUe6Ts+exA2aHoQeyKCVEpBcmEP7r0DWHwHW7lj9GY4btc+ixyE8AFSiaDKZwU7p2z/ygCdflW8nat+raCpS5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bertv\\source\\repos\\DBlibrary\\DBlibrary.csproj",
+  "projectFilePath": "C:\\Users\\bertv\\source\\repos\\MvcMongoApp\\DBlibrary\\DBlibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bertv\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\bertv\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
